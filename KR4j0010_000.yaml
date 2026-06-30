@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4j0010/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部十
+  hash: sha256:d860f9d2382c1e9bc3c39d366c670d170c860166a0919e841ef45644dcf23afb
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4j0010_WYG_000-1a, image: WYG1487/WYG1487-0219a.png}
+body:
+  text: 小山詞詞曲類一詞集之屬提要臣等謹案小山詞一卷宋晏幾道撰幾道字叔原號小山殊之幼子監潁昌許田鎮熙寧中鄭俠上書下獄悉治平時所往還厚善者幾道亦在數中從俠家搜得其詩裕陵稱之始令放出事見侯鯖録黃庭堅小山集序曰其樂府可謂俠邪之大雅豪士之鼓吹其合者髙唐洛神之流其下者豈減桃葉團扇哉又古今詞話載程叔微之言曰伊川聞人誦叔原詞夢魂慣得無拘檢又踏楊花過謝橋曰鬼語也意頗賞之然則幾道之詞固甚為當時推挹矣馬端臨經籍考載小山詞一卷並録黃庭堅全序此本佚去庭堅序惟存無名跋後一篇又似幾道詞本名補亡以為補樂府之亡單文孤證未敢遽改姑仍舊本題之至舊本字句往往訛異如泛清波摘遍一闋暗惜光隂恨多少句此刻於光字上誤增花字衍作八字句詞滙遂改隂作飲再誤為暗惜花光飲恨多少如斯之類殊失其真今併訂正之焉乾隆四十六年五月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:b65763ac1af2b4c3f1540310c35daebab4feb9ea9558c99dd1067336ab9173fa
+metadata:
+  title: 小山詞
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:47:07.315443'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4j0010/KR4j0010_000.txt
+hash: sha256:1b6ea8a6715a8020c042cbc5dde952bc433bb65d3788d4b3615e6d1b06438723
